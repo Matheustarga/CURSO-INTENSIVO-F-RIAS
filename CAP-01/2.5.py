@@ -1,0 +1,1 @@
+print('William Shakespeare  disse uma vez: "Nossas dúvidas são traidoras e nos fazem perder o que, com frequência, poderíamos ganhar, por simples medo de arriscar."')
